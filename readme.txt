@@ -11,3 +11,5 @@ git has a mutable index called stage
 git tracks changes
 
 create a new branch is quick
+
+create a new branch is quick and simple
