@@ -10,3 +10,4 @@ git has a mutable index called stage
 
 git tracks changes
 
+create a new branch is quick
